@@ -2,6 +2,16 @@
 
 General audio related resources from the internet that serve as a notebook of links etc.
 
+## Software
+
+* [Renoise](https://www.renoise.com/)
+* [VCV Rack](https://vcvrack.com/)
+* [Cardinal](https://github.com/DISTRHO/Cardinal) VCV Rack based VST plugin
+
+## VST Plugins
+
+* [Voxengo Span](https://www.voxengo.com/product/span/) audio spectrum analyzer AAX, AudioUnit, and VST plugin
+
 ## Synthesis
 
 * [Granular Synthesis Resource Page](http://www.granularsynthesis.com/guide.php)
