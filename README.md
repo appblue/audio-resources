@@ -12,3 +12,4 @@ General audio related resources from the internet that serve as a notebook of li
 
 * [Music DSP Notes](https://www.musicdsp.org/en/latest/)
 * [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com/pdfbook.htm)
+* [The Scientist and Engineer's Guide to Digital Signal Processing, 2nd Edition](https://www.analog.com/en/education/education-library/scientist_engineers_guide.html)
