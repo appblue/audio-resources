@@ -14,9 +14,16 @@ General audio related resources from the internet that serve as a notebook of li
 
 ## Synthesis
 
+### Granular Synthesis
+
 * [Granular Synthesis Resource Page](http://www.granularsynthesis.com/guide.php)
 * [Basics of Granular synthesis](https://www.izotope.com/en/learn/the-basics-of-granular-synthesis.html)
 * [Granular Synthesis](https://www.soundonsound.com/techniques/granular-synthesis)
+* [Granular Synthesis - Simon Fraser University](https://www.sfu.ca/~truax/gran.html)
+  * Roads, C. (2001) Microsound. Cambridge, MA: The MIT Press
+  * De Poli, G., Piccialli, A. & Roads, C. (1991) Editors. Representations of Musical Signals. Cambridge, MA: The MIT Press
+  * Gabor, D. (1947) Acoustical quanta and the theory of hearing. Nature, 159(4044), 591-594
+  * Truax, B. (1988) Real-time granular synthesis with a digital signal processor. Computer Music Journal, 12(2), 14-26
 
 ## Digital Signal Processing
 
