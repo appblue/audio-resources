@@ -12,6 +12,12 @@ General audio related resources from the internet that serve as a notebook of li
 
 * [Voxengo Span](https://www.voxengo.com/product/span/) audio spectrum analyzer AAX, AudioUnit, and VST plugin
 
+## Programming
+
+* [PipeWire](https://pipewire.org/) - handling audio under Linux
+  * [PipeWire Tutorial](https://docs.pipewire.org/page_tutorial4.html) - playing a tone
+* [ALSA](https://alsa-project.org/wiki/Main_Page) - Advanced Linux Sound Architecture
+
 ## Synthesis
 
 ### Granular Synthesis
@@ -31,7 +37,7 @@ General audio related resources from the internet that serve as a notebook of li
 * [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com/pdfbook.htm)
 * [The Scientist and Engineer's Guide to Digital Signal Processing, 2nd Edition](https://www.analog.com/en/education/education-library/scientist_engineers_guide.html)
 
-## Demo Scene
+## Music Demo Scene
 
 ### Software
 
